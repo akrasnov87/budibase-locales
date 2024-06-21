@@ -8,7 +8,7 @@
   "author": "Aleksandr Krasnov",
   "license": "ISC",
   "dependencies": {
-    "budibase-translate": "github:akrasnov87/budibase-translate"
+    "budibase-translate": "github:akrasnov87/budibase-translate#v1.0.3"
   },
   "devDependencies": {},
   "description": ""
